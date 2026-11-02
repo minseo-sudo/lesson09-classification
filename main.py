@@ -22,8 +22,7 @@ st.caption("데이터를 이해하고 뇌졸중 예측을 준비하는 실습 �
 # ==========================================
 
 DATA_URL = (
-    "https://raw.githubusercontent.com/"
-    "greatsong/modudata/main/data/stroke.csv"
+    "https://raw.githubusercontent.com/minseo-sudo/data/refs/heads/main/stroke.csv"
 )
 
 RECORD_DIR = Path("내_기록")
