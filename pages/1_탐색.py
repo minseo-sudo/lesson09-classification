@@ -20,8 +20,7 @@ st.caption("그래프와 표를 이용하여 데이터의 특징을 살펴봅니
 # 2. 데이터 불러오기
 # =====================================
 
-DATA_URL = "https://raw.githubusercontent.com/greatsong/modudata/main/data/stroke.csv"
-
+DATA_URL = "https://raw.githubusercontent.com/minseo-sudo/data/refs/heads/main/stroke.csv"
 
 @st.cache_data
 def load_data():
